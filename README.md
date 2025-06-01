@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me
 - 💻 I’m passionate about **web development**, **UI design**, and solving real-world problems with **creative tech**.
-- 🔍 Currently exploring **Gen AI**,**JavaScript**, **React**, and **Figma**.
+- 🔍 Currently exploring **Agentic AI**, **JavaScript**, **React**, and **Figma**.
 - 🎯 My goal is to become a skilled developer and eventually join top companies like Google or Microsoft.
 - 📚 Focused on building strong fundamentals in C, HTML, CSS, and starting JavaScript & React.
 
